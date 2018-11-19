@@ -1,4 +1,5 @@
 body {
+    
     background-color: lightblue;
 }
 
@@ -15,5 +16,11 @@ p {
 @media screen and (min-width: 480px) {
     body {
         background-color: lightgreen;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 720px) {
+    body {
+        background-color: lightred;
     }
 }
