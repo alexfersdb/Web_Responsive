@@ -19,7 +19,7 @@ p {
     }
 }
 
-@media screen and (min-width: 480px) and (max-width: 720px) {
+@media screen and (min-width: 550px) and (max-width: 720px) {
     body {
         background-color: lightred;
     }
