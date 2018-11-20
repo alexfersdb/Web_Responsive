@@ -9,8 +9,29 @@ h1 {
 }
 
 p {
-    font-family: verdana;
-    font-size: 20px;
+  font-size:100%;
+  color: red;
+}
+
+h2 {
+  color: blue;
+  
+}
+
+table, th, td {
+    border: 1px solid blue;
+    width 120%;
+}
+
+td {
+    padding: 5px;
+    text-align: center;    
+}
+
+th {
+    padding: 7px;
+    font-size:150%;
+    text-align: CENTER;    
 }
 
 @media only screen and (min-width: 480px) and (max-width: 720px){
