@@ -4,13 +4,13 @@ body {
 }
 
 h1 {
-    color: white;
+    color: aliceblue;
     text-align: center;
 }
 
 p {
   font-size:100%;
-  color: red;
+  color:lightblue;
 }
 
 h2 {
@@ -37,8 +37,7 @@ th {
 @media only screen and (min-width: 480px) and (max-width: 720px){
     body {
         background-color: lightgreen;
-        p{
-            display: none;}
+            display: none;
     }
 }
 
